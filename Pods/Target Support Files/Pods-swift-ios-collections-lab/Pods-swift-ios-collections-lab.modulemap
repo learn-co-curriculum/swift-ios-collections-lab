@@ -1,0 +1,6 @@
+framework module Pods_swift_ios_collections_lab {
+  umbrella header "Pods-swift-ios-collections-lab-umbrella.h"
+
+  export *
+  module * { export * }
+}
